@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/assets/daily-banner.svg?v=neon-portfolio-02" width="100%" alt="Anjali S. Kshirsagar — Data Analyst Portfolio" />
+<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/assets/daily-banner.svg?v=peach-kawaii-03" width="100%" alt="Anjali S. Kshirsagar — Data Analyst Portfolio" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anjali-xa&style=flat-square&color=9b7bdb" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Anjali-xa&style=flat-square&color=c58b75" alt="Profile views" />
 
-*Aspiring Data Analyst · Curious about patterns · Driven by questions*
+*Aspiring Data Analyst ♡ A curious mind with a love for data & little details*
 
 </div>
 
 ---
 
-## ◈ PROFILE
+## ♡ A LITTLE ABOUT ME
 
-Hi, I'm **Anjali S. Kshirsagar**. I'm building my skills in data analytics and enjoy exploring datasets, identifying patterns, and communicating insights clearly.
+Hey there! I'm **Anjali S. Kshirsagar** — an aspiring Data Analyst who loves discovering little stories hidden inside data. Just like my tiny desk companion, I'm curious, a little creative, and always learning something new. ☕
 
-- **Focus:** Data cleaning, exploratory analysis, SQL querying and dashboard storytelling
-- **Currently learning:** Python, Pandas, SQL, Excel and Power BI
-- **Approach:** Ask clear questions → explore the data → validate findings → communicate insights
-- **Goal:** Grow into a data analyst who helps teams make informed, data-driven decisions
+- **My interests:** Data cleaning, exploratory analysis, SQL queries and beautiful dashboards
+- **Learning corner:** Python, Pandas, SQL, Excel and Power BI
+- **My process:** Ask → Explore → Analyse → Find insights → Share
+- **Little dream:** Become a thoughtful analyst who turns numbers into meaningful decisions
 
-## ◈ TECH STACK
+## ✿ MY LITTLE TOOLKIT
 
 <div align="center">
 
@@ -29,15 +29,15 @@ Hi, I'm **Anjali S. Kshirsagar**. I'm building my skills in data analytics and e
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pandas-17132b?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/NumPy-17132b?style=for-the-badge&logo=numpy&logoColor=67E8F9" />
-<img src="https://img.shields.io/badge/Power%20BI-17132b?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Excel-17132b?style=for-the-badge&logo=microsoftexcel&logoColor=4ADE80" />
-<img src="https://img.shields.io/badge/Matplotlib-17132b?style=for-the-badge&logo=plotly&logoColor=F9A8D4" />
+<img src="https://img.shields.io/badge/Pandas-fff0e3?style=for-the-badge&logo=pandas&logoColor=C98F78" />
+<img src="https://img.shields.io/badge/NumPy-fff0e3?style=for-the-badge&logo=numpy&logoColor=D9A68E" />
+<img src="https://img.shields.io/badge/Power%20BI-fff0e3?style=for-the-badge&logo=powerbi&logoColor=B77A55" />
+<img src="https://img.shields.io/badge/Excel-fff0e3?style=for-the-badge&logo=microsoftexcel&logoColor=8D9B79" />
+<img src="https://img.shields.io/badge/Matplotlib-fff0e3?style=for-the-badge&logo=plotly&logoColor=D98F83" />
 
 </div>
 
-## ◈ FEATURED PROJECTS
+## ♡ DATA STORIES & PROJECTS
 
 ### 01 / E-commerce Sales Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/E-commerce-Sales-Analysis)
@@ -128,29 +128,29 @@ Explore retail sales and profitability across products, categories and regions.
 
 ---
 
-## ◈ GITHUB ANALYTICS
+## ✧ MY GITHUB CORNER
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=080817&title_color=C4A7E7&icon_color=F5A9D6&text_color=D8D4F0&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-xa&layout=compact&hide_border=true&bg_color=080817&title_color=C4A7E7&text_color=D8D4F0" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=fff4e8&title_color=A66F59&icon_color=D98F83&text_color=765B50&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-xa&layout=compact&hide_border=true&bg_color=fff4e8&title_color=A66F59&text_color=765B50" alt="Most used languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali-xa&bg_color=080817&color=D8D4F0&line=A78BFA&point=F5A9D6&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali-xa&bg_color=fff4e8&color=765B50&line=C98F78&point=D98F83&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 
 </div>
 
-## ◈ CONNECT
+## ♡ LET'S CONNECT
 
 <div align="center">
 
-<a href="https://github.com/Anjali-xa"><img src="https://img.shields.io/badge/GitHub-Profile-17132b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/Anjali-xa"><img src="https://img.shields.io/badge/GitHub-Profile-fff0e3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 <br/><br/>
 
 *Thanks for visiting my portfolio. More questions, more learning, better insights.*
 
-**BUILD · ANALYSE · LEARN**
+**MAKE · LEARN · GROW ♡**
 
 </div>
