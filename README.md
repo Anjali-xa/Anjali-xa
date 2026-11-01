@@ -1,46 +1,48 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/assets/profile-banner.svg" width="100%" alt="Anjali S. Kshirsagar — Aspiring Data Analyst" />
+<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/assets/profile-banner.svg" width="100%" alt="Anjali S. Kshirsagar — cute pastel data analyst banner" />
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&pause=1100&color=CBA6F7&center=true&vCenter=true&width=720&lines=Aspiring+Data+Analyst+%F0%9F%8C%B7;Exploring+Python%2C+SQL+%26+Power+BI;Turning+Raw+Data+into+Meaningful+Insights;Learning+Something+New+Every+Day+%E2%9C%A8" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&pause=1000&color=E6B8F2&center=true&vCenter=true&width=740&lines=Hi+there%2C+I'm+Anjali+%F0%9F%8C%B7;Aspiring+Data+Analyst+%F0%9F%90%9A;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Turning+data+into+little+aha+moments+%E2%9C%A8" alt="Animated typing intro" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/✨-Curious%20Mind-cba6f7?style=flat-square" />
-  <img src="https://img.shields.io/badge/📊-Data%20Enthusiast-89dceb?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌱-Always%20Learning-f5c2e7?style=flat-square" />
+  <img src="https://img.shields.io/badge/♡-Curious%20Mind-f5c2e7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✿-Data%20Lover-cba6f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁-Always%20Learning-b4befe?style=for-the-badge" />
 </p>
+
+<em>「 Small steps every day add up to lovely things. 」</em>
 
 </div>
 
 ---
 
-## 🌸 About Me
+## 🎀 A little about me
 
-Hi! I'm **Anjali S. Kshirsagar** — an aspiring **Data Analyst** who enjoys exploring data, finding patterns, and presenting insights in a clear and meaningful way.
+Hey! I'm **Anjali S. Kshirsagar** — an aspiring **Data Analyst** who loves making sense of data and turning numbers into clear stories.
 
-- 🔎 Interested in discovering the stories hidden inside data.
-- 🐍 Building my skills in Python and data analysis libraries.
-- 🗄️ Practising SQL to query, filter, and understand datasets.
-- 📊 Exploring dashboards and data visualization with Power BI and Excel.
-- 🧩 Learning by creating hands-on projects and improving them step by step.
-- 🌷 Goal: grow into a confident data professional and contribute to meaningful, data-driven decisions.
+- 🌷 Exploring datasets and finding patterns hidden inside them.
+- 🐍 Learning Python, Pandas and NumPy for data analysis.
+- 🧸 Practising SQL and MySQL to ask better questions of data.
+- 🎨 Exploring dashboards and visual storytelling with Power BI and Excel.
+- ✨ Building hands-on projects, learning from mistakes, and improving one step at a time.
+- 🌱 My goal is to grow into a data professional who helps people make thoughtful, data-driven decisions.
 
-## 🧰 Skills & Tools
+## 🧁 My toolkit
 
 <div align="center">
 
-| Area | Tools |
-|---|---|
-| Programming | Python |
-| Data Analysis | Pandas · NumPy |
-| Databases | SQL · MySQL |
-| Visualization | Power BI · Matplotlib |
-| Spreadsheet | Microsoft Excel |
-| Workflow | Git · GitHub · VS Code |
+| What I use | Tools I'm learning / practising |
+|:--|:--|
+| 🐍 Programming | Python |
+| 🔎 Data wrangling | Pandas · NumPy |
+| 🗃️ Databases | SQL · MySQL |
+| 📊 Visualization | Power BI · Matplotlib |
+| 📒 Spreadsheets | Microsoft Excel |
+| 🛠️ Workflow | Git · GitHub · VS Code |
 
 <br/>
 
@@ -56,25 +58,27 @@ Hi! I'm **Anjali S. Kshirsagar** — an aspiring **Data Analyst** who enjoys exp
 
 </div>
 
-## 📁 My Data Analytics Portfolio
+## 🍓 Projects I'm growing
 
-A collection of hands-on projects exploring sales, customers, content, operations, and business performance.
+A collection of hands-on learning projects across sales, customers, content, people analytics, and business performance.
 
-| # | Project | What it explores |
-|---:|---|---|
-| 01 | [🛍️ E-commerce Sales Analysis](https://github.com/Anjali-xa/E-commerce-Sales-Analysis) | Sales performance and revenue trends |
+| # | Project | A peek inside |
+|:--:|---|---|
+| 01 | [🛍️ E-commerce Sales Analysis](https://github.com/Anjali-xa/E-commerce-Sales-Analysis) | Sales performance & revenue trends |
 | 02 | [📦 Amazon Sales Analysis](https://github.com/Anjali-xa/Amazon-Sales-Analysis) | Product and sales insights |
-| 03 | [🎬 Netflix Content Analysis](https://github.com/Anjali-xa/Netflix-Content-Analysis) | Movies, shows, and catalogue patterns |
+| 03 | [🎬 Netflix Content Analysis](https://github.com/Anjali-xa/Netflix-Content-Analysis) | Movies, shows & catalogue patterns |
 | 04 | [👥 HR Analytics](https://github.com/Anjali-xa/-HR-Analytics) | Workforce and HR metrics |
 | 05 | [🦠 COVID-19 Trends Analysis](https://github.com/Anjali-xa/COVID-19-Trends-Analysis) | COVID-19 trend exploration |
 | 06 | [🔁 Customer Churn Analysis](https://github.com/Anjali-xa/Customer-Churn-Analysis) | Customer retention patterns |
 | 07 | [🍽️ Zomato Restaurant Analysis](https://github.com/Anjali-xa/Zomato-Restaurant-Analysis) | Restaurant and rating insights |
-| 08 | [💹 Financial Performance Analysis](https://github.com/Anjali-xa/Financial-Performance-Analysis) | Financial KPIs and performance |
+| 08 | [💹 Financial Performance Analysis](https://github.com/Anjali-xa/Financial-Performance-Analysis) | Financial KPI exploration |
 | 09 | [🏬 Superstore Sales Analysis](https://github.com/Anjali-xa/Superstore-Sales-Analysis) | Retail sales and profitability |
 
-<p align="center"><i>Each repository is a learning project that I continue to develop and improve. 🌱</i></p>
+<div align="center">
+  <sub>🌱 These are evolving learning projects — I'm continuously working to improve the analysis and presentation.</sub>
+</div>
 
-## 📈 GitHub Overview
+## 🌙 My GitHub corner
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4" alt="GitHub statistics" />
@@ -82,30 +86,30 @@ A collection of hands-on projects exploring sales, customers, content, operation
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali-xa&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali-xa&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 </div>
 
-## 🐍 Contribution Garden
+## 🐾 Contribution kitty
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
   <br/>
-  <sub>Little commits, steady progress. Keep growing! 🌱</sub>
+  <sub>One little commit at a time. Keep going, you've got this! 💗</sub>
 </div>
 
-## 💌 Let's Connect
+## 💌 Say hello
 
 <div align="center">
 
 <a href="https://github.com/Anjali-xa">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-Visit%20my%20profile-302044?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 
 <br/><br/>
 
-**Thanks for stopping by!**  
-*Have a lovely day and keep learning something wonderful. 🌷✨*
+**Thank you for visiting my little corner of GitHub!**  
+*Stay curious, be kind, and keep growing. 🌸*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302044,50:7554a5,100:cba6f7&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302044,50:7554a5,100:f5c2e7&height=120&section=footer" width="100%" />
 
 </div>
