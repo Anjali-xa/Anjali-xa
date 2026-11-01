@@ -1,10 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/daily-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/daily-banner-light.svg">
+<div align="center">
   <img src="./assets/daily-banner.svg" width="100%" alt="Animated banner of Anjali S. Kshirsagar">
-</picture>
+</div>
 
 <br/>
 
