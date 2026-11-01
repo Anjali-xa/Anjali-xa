@@ -58,24 +58,176 @@ Hey! I'm **Anjali S. Kshirsagar** — an aspiring **Data Analyst** who loves mak
 
 </div>
 
-## 🍓 Projects I'm growing
+## 🍓 My Data Analytics Projects
 
-A collection of hands-on learning projects across sales, customers, content, people analytics, and business performance.
+I enjoy exploring different kinds of datasets and learning how to turn them into useful business or analytical insights. Here are the projects I'm building and improving. 💗
 
-| # | Project | A peek inside |
-|:--:|---|---|
-| 01 | [🛍️ E-commerce Sales Analysis](https://github.com/Anjali-xa/E-commerce-Sales-Analysis) | Sales performance & revenue trends |
-| 02 | [📦 Amazon Sales Analysis](https://github.com/Anjali-xa/Amazon-Sales-Analysis) | Product and sales insights |
-| 03 | [🎬 Netflix Content Analysis](https://github.com/Anjali-xa/Netflix-Content-Analysis) | Movies, shows & catalogue patterns |
-| 04 | [👥 HR Analytics](https://github.com/Anjali-xa/-HR-Analytics) | Workforce and HR metrics |
-| 05 | [🦠 COVID-19 Trends Analysis](https://github.com/Anjali-xa/COVID-19-Trends-Analysis) | COVID-19 trend exploration |
-| 06 | [🔁 Customer Churn Analysis](https://github.com/Anjali-xa/Customer-Churn-Analysis) | Customer retention patterns |
-| 07 | [🍽️ Zomato Restaurant Analysis](https://github.com/Anjali-xa/Zomato-Restaurant-Analysis) | Restaurant and rating insights |
-| 08 | [💹 Financial Performance Analysis](https://github.com/Anjali-xa/Financial-Performance-Analysis) | Financial KPI exploration |
-| 09 | [🏬 Superstore Sales Analysis](https://github.com/Anjali-xa/Superstore-Sales-Analysis) | Retail sales and profitability |
+> 🌱 **Project status note:** These are learning projects in progress. The current CSV files are synthetic demo data, so they should not be treated as real-world findings. Each repository includes its intended public dataset source and starter analysis; I plan to validate and integrate the source data before publishing factual results.
+
+### 01 · 🛍️ E-commerce Sales Analysis
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/E-commerce-Sales-Analysis)
+
+**Goal:** Understand how an online store's sales performance can be explored through orders, revenue, products, and regions.
+
+**What I'm exploring:**
+- Monthly revenue and order-volume trends.
+- Revenue contribution by product category.
+- Regional sales comparisons.
+- How quantity and unit price can be used to calculate revenue.
+
+**Analytical focus:** Revenue = Quantity × Unit Price.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** UCI Online Retail II.
+
+---
+
+### 02 · 📦 Amazon Sales Analysis
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/Amazon-Sales-Analysis)
+
+**Goal:** Explore sales performance across product categories, order statuses, and fulfilment channels.
+
+**What I'm exploring:**
+- Sales distribution across categories.
+- Order-status mix, including cancellations.
+- Fulfilment-channel comparisons.
+- Monthly sales patterns.
+
+**Analytical focus:** Sales totals, order-status distribution, and cancellation share.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** Public e-commerce sales dataset.
+
+---
+
+### 03 · 🎬 Netflix Content Analysis
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/Netflix-Content-Analysis)
+
+**Goal:** Explore the Netflix catalogue and understand the mix of movies and TV shows.
+
+**What I'm exploring:**
+- Movies vs. TV shows distribution.
+- Content by country.
+- Release-year patterns.
+- Catalogue composition and title counts.
+
+**Analytical focus:** Title counts, content-type share, and release-year distribution.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** Netflix Movies and TV Shows dataset.
+
+---
+
+### 04 · 👥 HR Analytics — Employee Attrition
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/-HR-Analytics)
+
+**Goal:** Learn how workforce data can help explore employee attrition and workforce patterns.
+
+**What I'm exploring:**
+- Attrition across departments.
+- Employee age-profile distribution.
+- Monthly-income patterns.
+- Department-wise headcount.
+
+**Analytical focus:** Attrition rate = Employees marked "Yes" ÷ Total Employees.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** IBM HR Analytics Employee Attrition & Performance.
+
+---
+
+### 05 · 🦠 COVID-19 Trends Analysis
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/COVID-19-Trends-Analysis)
+
+**Goal:** Explore how reported COVID-19 cases, recoveries, and deaths changed across countries and dates.
+
+**What I'm exploring:**
+- Country-wise reported case counts.
+- Changes in reported cases over time.
+- Reported recoveries and deaths.
+- Deaths-to-cases ratio, with care around reporting differences.
+
+**Analytical focus:** Time trends, country comparisons, and reported-count ratios.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** Our World in Data COVID-19 dataset.
+
+---
+
+### 06 · 🔁 Customer Churn Analysis
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/Customer-Churn-Analysis)
+
+**Goal:** Explore customer characteristics and identify patterns associated with customer churn.
+
+**What I'm exploring:**
+- Churn across contract types.
+- Customer tenure patterns.
+- Monthly-charge comparisons.
+- Differences between retained and churned customers.
+
+**Analytical focus:** Churn rate = Customers marked "Yes" ÷ Total Customers.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** Telco Customer Churn dataset.
+
+---
+
+### 07 · 🍽️ Zomato Restaurant Analysis
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/Zomato-Restaurant-Analysis)
+
+**Goal:** Explore restaurant-market patterns through cuisine, ratings, location, and cost information.
+
+**What I'm exploring:**
+- Popular cuisine categories.
+- Restaurant distribution by city or area.
+- Rating patterns and rating coverage.
+- Average cost for two.
+
+**Analytical focus:** Average rating, average cost, and cuisine/location distribution.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** Zomato Bangalore Restaurants dataset.
+
+---
+
+### 08 · 💹 Financial Performance Analysis
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/Financial-Performance-Analysis)
+
+**Goal:** Understand how revenue, expenses, profit, and budget comparisons can help monitor financial performance.
+
+**What I'm exploring:**
+- Monthly revenue and profit trends.
+- Performance by business unit.
+- Actual revenue compared with budget.
+- Profit margin patterns.
+
+**Analytical focus:** Profit = Revenue − Expenses; Margin = Profit ÷ Revenue.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** Company facts from the SEC EDGAR API, after selecting and mapping a company.
+
+---
+
+### 09 · 🏬 Superstore Sales & Profitability Analysis
+
+[**Explore the project on GitHub →**](https://github.com/Anjali-xa/Superstore-Sales-Analysis)
+
+**Goal:** Explore retail sales and profitability across product categories and regions.
+
+**What I'm exploring:**
+- Sales and profit by category.
+- Regional sales comparisons.
+- Monthly sales trends.
+- Profit margins and loss-making segments.
+
+**Analytical focus:** Profit margin = Profit ÷ Sales.  
+**Tools:** Python · Pandas · Matplotlib · SQL  
+**Dataset planned:** Tableau Sample Superstore dataset.
+
+---
 
 <div align="center">
-  <sub>🌱 These are evolving learning projects — I'm continuously working to improve the analysis and presentation.</sub>
+  <sub>🌷 Each project is a step in my learning journey. I'm working towards adding validated datasets, clear visualizations, and meaningful findings.</sub>
 </div>
 
 ## 🌙 My GitHub corner
