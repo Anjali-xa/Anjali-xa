@@ -1,17 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#100d25"/><stop offset=".55" stop-color="#21143d"/><stop offset="1" stop-color="#080d20"/></linearGradient>
-  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f0a6ff"/><stop offset="1" stop-color="#8ddcff"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#241638"/><stop offset=".52" stop-color="#3b2858"/><stop offset="1" stop-color="#171c38"/></linearGradient>
+ <linearGradient id="lav" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffd4ee"/><stop offset=".55" stop-color="#d8c5ff"/><stop offset="1" stop-color="#a9e8ff"/></linearGradient>
+ <filter id="soft"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-<g fill="none" stroke="#a879e8" opacity=".25"><path d="M0 285H1200M0 315H1200M80 0V360M160 0V360M240 0V360M320 0V360M400 0V360M480 0V360M560 0V360M640 0V360M720 0V360M800 0V360M880 0V360M960 0V360M1040 0V360M1120 0V360"/></g>
-<g fill="#f6c8ff" opacity=".9"><circle cx="90" cy="72" r="3"/><circle cx="250" cy="48" r="2"/><circle cx="1060" cy="65" r="3"/><circle cx="1125" cy="150" r="2"/><circle cx="850" cy="48" r="2"/></g>
-<g transform="translate(70 85)" stroke="url(#pink)" stroke-width="5" fill="none" filter="url(#glow)"><path d="M0 150V90H42V150M58 150V48H100V150M116 150V15H158V150M174 150V68H216V150"/><path d="M0 170H240"/></g>
-<g transform="translate(930 85)" fill="none" stroke="url(#pink)" stroke-width="5" filter="url(#glow)"><path d="M0 150L55 110L105 125L160 55L220 75L265 10"/><path d="M242 10H265V33"/></g>
-<text x="600" y="128" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Anjali S. Kshirsagar</text>
-<text x="600" y="183" text-anchor="middle" fill="#d9b7ff" font-family="Segoe UI,Arial,sans-serif" font-size="25">Aspiring Data Analyst  ·  Python  ·  SQL  ·  Power BI</text>
-<text x="600" y="232" text-anchor="middle" fill="#f7d7ff" font-family="Segoe UI,Arial,sans-serif" font-size="20">Turning data into insights, one project at a time ✦</text>
-<g transform="translate(575 275)" fill="#f3c7ff"><path d="M0 0C-22 -22 -48 8 0 38C48 8 22 -22 0 0Z"/><circle cx="-9" cy="7" r="2" fill="#21143d"/><circle cx="9" cy="7" r="2" fill="#21143d"/></g>
-<text x="600" y="338" text-anchor="middle" fill="#b8a4d8" font-family="Segoe UI,Arial,sans-serif" font-size="14">LEARN  •  ANALYZE  •  GROW</text>
+<rect width="1200" height="380" rx="30" fill="url(#bg)"/>
+<g fill="none" stroke="#d9b6ff" opacity=".13"><path d="M0 300H1200M0 340H1200M80 0V380M160 0V380M240 0V380M320 0V380M400 0V380M480 0V380M560 0V380M640 0V380M720 0V380M800 0V380M880 0V380M960 0V380M1040 0V380M1120 0V380"/></g>
+<g fill="#ffe2f4" opacity=".9"><path d="M88 62l7 16 16 7-16 7-7 16-7-16-16-7 16-7z"/><path d="M1080 65l6 13 13 6-13 6-6 13-6-13-13-6 13-6z"/><path d="M1010 235l5 11 11 5-11 5-5 11-5-11-11-5 11-5z"/><circle cx="280" cy="70" r="3"/><circle cx="930" cy="95" r="3"/><circle cx="1150" cy="280" r="3"/></g>
+<!-- cute cat mascot -->
+<g transform="translate(75 112)">
+ <ellipse cx="115" cy="175" rx="104" ry="20" fill="#100e24" opacity=".45"/>
+ <path d="M45 75L32 5Q30 -2 40 3L86 35Q115 22 145 35L190 3Q200 -2 198 8L185 78Q206 112 194 155Q180 205 115 205Q50 205 36 155Q24 112 45 75Z" fill="#fff0fa" stroke="#f3c5ed" stroke-width="5"/>
+ <path d="M42 57L40 15L78 44M188 57L191 15L152 44" fill="#ffc5e7" stroke="#f3c5ed" stroke-width="4"/>
+ <ellipse cx="83" cy="112" rx="8" ry="13" fill="#403052"/><ellipse cx="147" cy="112" rx="8" ry="13" fill="#403052"/>
+ <path d="M108 132Q115 141 122 132" fill="none" stroke="#d77aa9" stroke-width="4" stroke-linecap="round"/>
+ <ellipse cx="62" cy="133" rx="13" ry="7" fill="#ffb5d6" opacity=".8"/><ellipse cx="168" cy="133" rx="13" ry="7" fill="#ffb5d6" opacity=".8"/>
+ <path d="M105 94Q115 84 125 94" fill="none" stroke="#403052" stroke-width="3" stroke-linecap="round"/>
+ <path d="M161 43Q177 15 188 43Q179 58 161 43Z" fill="#cba6f7"/>
+ <path d="M65 183Q115 157 165 183" fill="none" stroke="#d6a2e7" stroke-width="5" stroke-linecap="round"/>
+</g>
+<!-- laptop and chart -->
+<g transform="translate(900 112)" filter="url(#soft)">
+ <rect x="20" y="20" width="205" height="135" rx="12" fill="#17152d" stroke="#d7b7ff" stroke-width="4"/>
+ <path d="M40 125L78 90L115 105L158 55L205 70" fill="none" stroke="#a9e8ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="158" cy="55" r="6" fill="#ffd4ee"/>
+ <path d="M0 165H245L225 180H22Z" fill="#cba6f7" stroke="#f5d2ff" stroke-width="3"/>
+ <rect x="104" y="170" width="42" height="4" rx="2" fill="#604b83"/>
+</g>
+<text x="610" y="128" text-anchor="middle" fill="#fff7ff" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700">Anjali S. Kshirsagar</text>
+<text x="610" y="183" text-anchor="middle" fill="url(#lav)" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="600">Aspiring Data Analyst</text>
+<text x="610" y="229" text-anchor="middle" fill="#fbe7ff" font-family="Segoe UI,Arial,sans-serif" font-size="20">Python  ♡  SQL  ♡  Power BI  ♡  Excel</text>
+<text x="610" y="270" text-anchor="middle" fill="#e7d5ff" font-family="Segoe UI,Arial,sans-serif" font-size="18">Making data a little less mysterious, one project at a time ✨</text>
+<g transform="translate(570 316)" fill="#ffcae7"><path d="M0 0C-18 -19 -42 6 0 31C42 6 18 -19 0 0Z"/><circle cx="-8" cy="6" r="2" fill="#55385f"/><circle cx="8" cy="6" r="2" fill="#55385f"/></g>
+<text x="610" y="365" text-anchor="middle" fill="#d8c5f5" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">LEARN  ·  CREATE  ·  GROW</text>
 </svg>
