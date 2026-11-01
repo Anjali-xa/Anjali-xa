@@ -47,5 +47,12 @@
  <text x="770" y="276" fill="#80675b" font-size="19" letter-spacing="2">PYTHON  ·  SQL  ·  EXCEL  ·  POWER BI</text>
  <text x="770" y="313" fill="#b07c66" font-size="16">Curious mind • Cozy desk • Meaningful insights</text>
 </g>
-<g fill="#fff"><circle cx="365" cy="90" r="3"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/></circle><circle cx="1120" cy="210" r="3"><animate attributeName="opacity" values="1;.25;1" dur="2.8s" repeatCount="indefinite"/></circle></g>
+<g fill="#fffaf4">
+ <circle cx="365" cy="90" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/><animate attributeName="r" values="3;5;3" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="1120" cy="210" r="4"><animate attributeName="opacity" values="1;.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+ <circle cx="420" cy="285" r="3"><animate attributeName="opacity" values=".15;1;.15" dur="3.8s" repeatCount="indefinite"/></circle>
+ <circle cx="1080" cy="105" r="3"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+ <path d="M345 170l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"><animate attributeName="opacity" values=".2;1;.2" dur="3.4s" repeatCount="indefinite"/></path>
+ <path d="M1140 285l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"><animate attributeName="opacity" values="1;.2;1" dur="2.9s" repeatCount="indefinite"/></path>
+</g>
 </svg>
