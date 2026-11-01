@@ -14,7 +14,7 @@
 
 ---
 
-## ♡ A LITTLE ABOUT ME
+## 🌸 ♡ A LITTLE ABOUT ME
 
 Hey there! I'm **Anjali S. Kshirsagar** — an aspiring Data Analyst who loves discovering little stories hidden inside data. Just like my tiny desk companion, I'm curious, a little creative, and always learning something new. ☕
 
@@ -23,7 +23,7 @@ Hey there! I'm **Anjali S. Kshirsagar** — an aspiring Data Analyst who loves d
 - **My process:** Ask → Explore → Analyse → Find insights → Share
 - **Little dream:** Become a thoughtful analyst who turns numbers into meaningful decisions
 
-## ✿ MY LITTLE TOOLKIT
+## 🧸 ✿ MY LITTLE TOOLKIT
 
 <div align="center">
 
@@ -39,9 +39,9 @@ Hey there! I'm **Anjali S. Kshirsagar** — an aspiring Data Analyst who loves d
 
 </div>
 
-## ♡ DATA STORIES & PROJECTS
+## 🍓 ♡ DATA STORIES & PROJECTS
 
-### 01 / E-commerce Sales Analysis
+### 🛍️ 01 · E-commerce Sales Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/E-commerce-Sales-Analysis)
 
 Explore online-store performance through orders, revenue, products and regions.
@@ -50,7 +50,7 @@ Explore online-store performance through orders, revenue, products and regions.
 - **Key question:** Which products and regions contribute most to sales?
 - **Tools:** Python · Pandas · SQL · Matplotlib
 
-### 02 / Amazon Sales Analysis
+### 📦 02 · Amazon Sales Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/Amazon-Sales-Analysis)
 
 Explore e-commerce order patterns, product categories and fulfilment performance.
@@ -59,7 +59,7 @@ Explore e-commerce order patterns, product categories and fulfilment performance
 - **Key question:** How do order status and product categories shape sales?
 - **Tools:** Python · Pandas · SQL · Matplotlib
 
-### 03 / Netflix Content Analysis
+### 🎬 03 · Netflix Content Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/Netflix-Content-Analysis)
 
 Explore catalogue composition and content trends across movies and television.
@@ -68,7 +68,7 @@ Explore catalogue composition and content trends across movies and television.
 - **Key question:** How has the catalogue composition changed over time?
 - **Tools:** Python · Pandas · SQL · Matplotlib
 
-### 04 / HR Analytics
+### 👩‍💼 04 · HR Analytics
 [**Open repository ↗**](https://github.com/Anjali-xa/-HR-Analytics)
 
 Explore workforce data to understand employee attrition and department-level patterns.
@@ -77,7 +77,7 @@ Explore workforce data to understand employee attrition and department-level pat
 - **Key question:** How does attrition vary by department and employee segment?
 - **Tools:** Python · Pandas · SQL · Power BI
 
-### 05 / COVID-19 Trends Analysis
+### 🦠 05 · COVID-19 Trends Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/COVID-19-Trends-Analysis)
 
 Explore reported case trends and country-level differences over time.
@@ -86,7 +86,7 @@ Explore reported case trends and country-level differences over time.
 - **Key question:** How did reported cases change across dates and locations?
 - **Tools:** Python · Pandas · SQL · Matplotlib
 
-### 06 / Customer Churn Analysis
+### 💌 06 · Customer Churn Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/Customer-Churn-Analysis)
 
 Explore customer attributes and patterns associated with churn.
@@ -95,7 +95,7 @@ Explore customer attributes and patterns associated with churn.
 - **Key question:** Which customer groups show different churn patterns?
 - **Tools:** Python · Pandas · SQL · Matplotlib
 
-### 07 / Zomato Restaurant Analysis
+### 🍽️ 07 · Zomato Restaurant Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/Zomato-Restaurant-Analysis)
 
 Explore restaurant listings through cuisine, ratings, location and cost.
@@ -104,7 +104,7 @@ Explore restaurant listings through cuisine, ratings, location and cost.
 - **Key question:** How do cuisine, location and cost vary across listings?
 - **Tools:** Python · Pandas · SQL · Matplotlib
 
-### 08 / Financial Performance Analysis
+### 💰 08 · Financial Performance Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/Financial-Performance-Analysis)
 
 Explore revenue, expenses, profit and budget comparisons.
@@ -113,7 +113,7 @@ Explore revenue, expenses, profit and budget comparisons.
 - **Key question:** How does actual performance compare with budget?
 - **Tools:** Python · Pandas · SQL · Excel
 
-### 09 / Superstore Sales Analysis
+### 🛒 09 · Superstore Sales Analysis
 [**Open repository ↗**](https://github.com/Anjali-xa/Superstore-Sales-Analysis)
 
 Explore retail sales and profitability across products, categories and regions.
@@ -130,7 +130,7 @@ Explore retail sales and profitability across products, categories and regions.
 
 ---
 
-## ✧ MY GITHUB CORNER
+## 🌷 ✧ MY GITHUB CORNER
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Explore retail sales and profitability across products, categories and regions.
 
 </div>
 
-## ♡ LET'S CONNECT
+## 💌 ♡ LET'S CONNECT
 
 <div align="center">
 
