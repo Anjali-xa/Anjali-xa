@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#100d25"/><stop offset=".55" stop-color="#21143d"/><stop offset="1" stop-color="#080d20"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f0a6ff"/><stop offset="1" stop-color="#8ddcff"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<g fill="none" stroke="#a879e8" opacity=".25"><path d="M0 285H1200M0 315H1200M80 0V360M160 0V360M240 0V360M320 0V360M400 0V360M480 0V360M560 0V360M640 0V360M720 0V360M800 0V360M880 0V360M960 0V360M1040 0V360M1120 0V360"/></g>
+<g fill="#f6c8ff" opacity=".9"><circle cx="90" cy="72" r="3"/><circle cx="250" cy="48" r="2"/><circle cx="1060" cy="65" r="3"/><circle cx="1125" cy="150" r="2"/><circle cx="850" cy="48" r="2"/></g>
+<g transform="translate(70 85)" stroke="url(#pink)" stroke-width="5" fill="none" filter="url(#glow)"><path d="M0 150V90H42V150M58 150V48H100V150M116 150V15H158V150M174 150V68H216V150"/><path d="M0 170H240"/></g>
+<g transform="translate(930 85)" fill="none" stroke="url(#pink)" stroke-width="5" filter="url(#glow)"><path d="M0 150L55 110L105 125L160 55L220 75L265 10"/><path d="M242 10H265V33"/></g>
+<text x="600" y="128" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Anjali S. Kshirsagar</text>
+<text x="600" y="183" text-anchor="middle" fill="#d9b7ff" font-family="Segoe UI,Arial,sans-serif" font-size="25">Aspiring Data Analyst  ·  Python  ·  SQL  ·  Power BI</text>
+<text x="600" y="232" text-anchor="middle" fill="#f7d7ff" font-family="Segoe UI,Arial,sans-serif" font-size="20">Turning data into insights, one project at a time ✦</text>
+<g transform="translate(575 275)" fill="#f3c7ff"><path d="M0 0C-22 -22 -48 8 0 38C48 8 22 -22 0 0Z"/><circle cx="-9" cy="7" r="2" fill="#21143d"/><circle cx="9" cy="7" r="2" fill="#21143d"/></g>
+<text x="600" y="338" text-anchor="middle" fill="#b8a4d8" font-family="Segoe UI,Arial,sans-serif" font-size="14">LEARN  •  ANALYZE  •  GROW</text>
+</svg>
