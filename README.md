@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/assets/profile-banner.svg" width="100%" alt="Anjali S. Kshirsagar — cute pastel data analyst banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/daily-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/daily-banner-light.svg">
+  <img src="./assets/daily-banner.svg" width="100%" alt="Animated banner of Anjali S. Kshirsagar">
+</picture>
 
 <br/>
 
