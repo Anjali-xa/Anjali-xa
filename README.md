@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="./assets/daily-banner.svg" width="100%" alt="Animated banner of Anjali S. Kshirsagar">
+  <img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/assets/daily-banner.svg?v=eb312430" width="100%" alt="Cute Japanese anime girl banner for Anjali S. Kshirsagar">
 </div>
 
 <br/>
