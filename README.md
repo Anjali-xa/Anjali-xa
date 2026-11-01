@@ -233,12 +233,12 @@ I enjoy exploring different kinds of datasets and learning how to turn them into
 ## 🌙 My GitHub corner
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-xa&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Most used languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&cache_seconds=86400" alt="GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Anjali-xa&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&cache_seconds=86400" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali-xa&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <sub>✨ These cards are generated from my public GitHub activity. If they take a little while to appear, GitHub's image cache may need time to refresh.</sub>
 </div>
 
 ## 🐾 Contribution kitty
