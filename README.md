@@ -134,8 +134,8 @@ Explore retail sales and profitability across products, categories and regions.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=fff4e8&title_color=A66F59&icon_color=D98F83&text_color=765B50&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-xa&layout=compact&hide_border=true&bg_color=fff4e8&title_color=A66F59&text_color=765B50" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=fff4e8&title_color=A66F59&icon_color=D98F83&text_color=765B50&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-xa&layout=compact&hide_border=true&bg_color=fff4e8&title_color=A66F59&text_color=765B50" height="165" alt="Most used languages" />
 
 <br/><br/>
 
