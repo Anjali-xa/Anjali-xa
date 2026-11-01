@@ -1,0 +1,24 @@
+name: Daily Banner
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-banner
+  cancel-in-progress: true
+
+jobs:
+  banner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+      - uses: Florian-85/daily-banner@v0.1.0
+        with:
+          config: daily-banner.json
+          output-dir: assets
