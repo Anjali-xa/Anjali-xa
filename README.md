@@ -4,6 +4,8 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3200&pause=900&color=A8755E&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%E2%9C%BF;Turning+data+into+meaningful+insights;Learning+Python+%7C+SQL+%7C+Power+BI;Curious+mind%2C+always+growing+%E2%99%A1" alt="Animated typing introduction" />
+
 <img src="https://komarev.com/ghpvc/?username=Anjali-xa&style=flat-square&color=c58b75" alt="Profile views" />
 
 *Aspiring Data Analyst ♡ A curious mind with a love for data & little details*
