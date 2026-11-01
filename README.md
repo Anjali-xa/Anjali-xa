@@ -22,7 +22,13 @@
 
 ---
 
+<div align="center">
+
 ## 🎀 A little about me
+
+<em>☁️ A curious mind with a love for data, design & tiny details ☁️</em>
+
+</div>
 
 Hey! I'm **Anjali S. Kshirsagar** — an aspiring **Data Analyst** who loves making sense of data and turning numbers into clear stories.
 
@@ -33,18 +39,30 @@ Hey! I'm **Anjali S. Kshirsagar** — an aspiring **Data Analyst** who loves mak
 - ✨ Building hands-on projects, learning from mistakes, and improving one step at a time.
 - 🌱 My goal is to grow into a data professional who helps people make thoughtful, data-driven decisions.
 
+<div align="center">
+
 ## 🧁 My toolkit
+
+<em>My little digital pencil case ♡</em>
+
+</div>
 
 <div align="center">
 
-| What I use | Tools I'm learning / practising |
-|:--|:--|
-| 🐍 Programming | Python |
-| 🔎 Data wrangling | Pandas · NumPy |
-| 🗃️ Databases | SQL · MySQL |
-| 📊 Visualization | Power BI · Matplotlib |
-| 📒 Spreadsheets | Microsoft Excel |
-| 🛠️ Workflow | Git · GitHub · VS Code |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-fff0f6?style=for-the-badge&logo=python&logoColor=8b6fa8" />
+  <img src="https://img.shields.io/badge/Pandas-f4eaff?style=for-the-badge&logo=pandas&logoColor=7554a5" />
+  <img src="https://img.shields.io/badge/NumPy-e9f5ff?style=for-the-badge&logo=numpy&logoColor=567da5" />
+  <img src="https://img.shields.io/badge/SQL-fce8f1?style=for-the-badge&logo=postgresql&logoColor=9a6384" />
+  <img src="https://img.shields.io/badge/MySQL-e8f5f2?style=for-the-badge&logo=mysql&logoColor=548c83" />
+  <img src="https://img.shields.io/badge/Power%20BI-fff3d9?style=for-the-badge&logo=powerbi&logoColor=9a741d" />
+  <img src="https://img.shields.io/badge/Excel-e8f5e9?style=for-the-badge&logo=microsoftexcel&logoColor=4d8b61" />
+  <img src="https://img.shields.io/badge/Matplotlib-f0edff?style=for-the-badge&logo=plotly&logoColor=7564a5" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-f4efff?style=for-the-badge&logo=github&logoColor=65527d" />
+  <img src="https://img.shields.io/badge/VS%20Code-e8f5ff?style=for-the-badge&logo=visualstudiocode&logoColor=4f85ad" />
+</p>
+
+<sub>♡ Learning every tool one small project at a time.</sub>
 
 <br/>
 
@@ -60,7 +78,13 @@ Hey! I'm **Anjali S. Kshirsagar** — an aspiring **Data Analyst** who loves mak
 
 </div>
 
+<div align="center">
+
 ## 🍓 My Data Analytics Projects
+
+<em>Little experiments, growing skills, bigger dreams ✨</em>
+
+</div>
 
 I enjoy exploring different kinds of datasets and learning how to turn them into useful business or analytical insights. Here are the projects I'm building and improving. 💗
 
@@ -232,7 +256,13 @@ I enjoy exploring different kinds of datasets and learning how to turn them into
   <sub>🌷 Each project is a step in my learning journey. I'm working towards adding validated datasets, clear visualizations, and meaningful findings.</sub>
 </div>
 
+<div align="center">
+
 ## 🌙 My GitHub corner
+
+<em>A tiny snapshot of my coding journey ♡</em>
+
+</div>
 
 <div align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&cache_seconds=86400" alt="GitHub statistics" />
@@ -243,7 +273,13 @@ I enjoy exploring different kinds of datasets and learning how to turn them into
   <sub>✨ Live cards based on public GitHub repositories. Language percentages reflect code in my own public repositories.</sub>
 </div>
 
+<div align="center">
+
 ## 🌷 Contribution garden
+
+<em>Every square is a little step forward 🌱</em>
+
+</div>
 
 <div align="center">
   <img src="https://ghchart.rshah.org/cba6f7/Anjali-xa" alt="Anjali's GitHub contribution calendar" width="100%" />
@@ -259,7 +295,13 @@ I enjoy exploring different kinds of datasets and learning how to turn them into
   <sub>One little commit at a time. Keep going, you've got this! 💗</sub>
 </div>
 
+<div align="center">
+
 ## 💌 Say hello
+
+<em>Let's connect and keep learning together ♡</em>
+
+</div>
 
 <div align="center">
 
