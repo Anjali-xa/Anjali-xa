@@ -1,67 +1,71 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Anjali S. Kshirsagar — anime-inspired study room banner</title>
-<desc id="desc">A cozy Japanese anime-inspired study nook at sunrise, with a girl studying data on her laptop, a sleepy cat, sakura petals and warm pastel colors.</desc>
+<title id="title">Anjali S. Kshirsagar — cute Japanese anime banner</title>
+<desc id="desc">A cute original anime girl with long lavender hair, sparkling eyes and a pink bow, surrounded by cherry blossoms and stars, with Anjali's data analyst title.</desc>
 <defs>
- <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7dce6"/><stop offset=".5" stop-color="#d9d8f4"/><stop offset="1" stop-color="#b9d8dc"/></linearGradient>
- <linearGradient id="window" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f7bfc7"/><stop offset=".55" stop-color="#f6d8bb"/><stop offset="1" stop-color="#b8d9cf"/></linearGradient>
- <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#332e50"/><stop offset="1" stop-color="#514365"/></linearGradient>
- <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#263b48"/><stop offset="1" stop-color="#526b70"/></linearGradient>
- <filter id="shadow"><feGaussianBlur stdDeviation="7"/></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbe3ef"/><stop offset=".48" stop-color="#e9ddfb"/><stop offset="1" stop-color="#cfe8f4"/></linearGradient>
+ <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b99be9"/><stop offset=".48" stop-color="#8d78c7"/><stop offset="1" stop-color="#554c85"/></linearGradient>
+ <linearGradient id="dress" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff8fc"/><stop offset="1" stop-color="#f3b9d5"/></linearGradient>
+ <linearGradient id="eye" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9ee8f4"/><stop offset=".55" stop-color="#7779c8"/><stop offset="1" stop-color="#40345f"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="8"/></filter>
 </defs>
-<rect width="1200" height="360" rx="24" fill="url(#wall)"/>
-<!-- sunny window and distant sakura -->
-<rect x="760" y="28" width="390" height="250" rx="15" fill="#fff4ee" opacity=".8"/>
-<rect x="775" y="42" width="360" height="220" rx="8" fill="url(#window)"/>
-<circle cx="1040" cy="96" r="34" fill="#fff2ce" opacity=".9"/>
-<path d="M775 215Q860 160 940 207T1135 195V262H775Z" fill="#a5c8b4"/>
-<path d="M775 236Q880 198 960 231T1135 218V262H775Z" fill="#719d91"/>
-<path d="M860 262V145M860 174Q825 128 802 142M860 190Q900 133 926 146" fill="none" stroke="#735c72" stroke-width="8" stroke-linecap="round"/>
-<g fill="#f6aeca"><circle cx="812" cy="139" r="13"/><circle cx="835" cy="126" r="15"/><circle cx="902" cy="137" r="16"/><circle cx="925" cy="149" r="12"/></g>
-<path d="M950 42V262M775 155H1135" stroke="#fff5f1" stroke-width="8" opacity=".9"/>
-<!-- shelf -->
-<path d="M30 78H330" stroke="#a87e91" stroke-width="10" stroke-linecap="round"/>
-<rect x="60" y="40" width="42" height="38" rx="5" fill="#e9a9bd"/><rect x="110" y="30" width="34" height="48" rx="5" fill="#a8b8d7"/><rect x="152" y="47" width="52" height="31" rx="5" fill="#d5b6a8"/>
-<path d="M245 77Q250 36 281 42Q311 48 314 77Z" fill="#83a89a"/><path d="M280 43Q258 14 243 31M284 45Q304 8 324 30" stroke="#719a8a" stroke-width="8" fill="none"/>
-<!-- desk -->
-<ellipse cx="580" cy="325" rx="370" ry="24" fill="#6d586b" opacity=".18" filter="url(#shadow)"/>
-<path d="M180 285H720L680 360H220Z" fill="#bd8f91"/>
-<path d="M180 285H720V305H180Z" fill="#d8a9a9"/>
-<!-- girl back / shoulders -->
-<path d="M355 282Q360 211 426 194Q496 174 548 215Q590 246 600 300H340Z" fill="#f0b5c7"/>
-<path d="M397 229Q360 174 386 108Q408 50 474 56Q548 60 563 128Q574 186 531 237L505 269H415Z" fill="url(#hair)"/>
-<path d="M402 127Q392 66 458 50Q522 42 551 104Q512 78 475 93Q444 106 402 127Z" fill="#253a49"/>
-<path d="M408 107Q391 158 414 214M542 112Q566 168 535 225" stroke="#78939a" stroke-width="8" fill="none" stroke-linecap="round"/>
-<path d="M435 203Q472 226 515 203L531 281H410Z" fill="#f7d9e4"/>
-<!-- head side profile hint -->
-<path d="M458 119Q474 99 506 111Q529 127 520 164Q510 193 480 191Q453 178 451 151Z" fill="#f4c6bb"/>
-<path d="M450 126Q452 92 492 91Q525 92 533 130Q512 111 492 118Q469 128 450 126Z" fill="#243943"/>
-<!-- laptop -->
-<rect x="520" y="218" width="174" height="100" rx="9" fill="url(#panel)" stroke="#f7e2ee" stroke-width="4"/>
-<rect x="531" y="229" width="152" height="76" rx="4" fill="#d9d7ed"/>
-<path d="M546 289L572 270L593 278L620 250L663 260" fill="none" stroke="#8e78b4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="620" cy="250" r="5" fill="#e99ab8"/>
-<path d="M505 319H709L692 331H522Z" fill="#f6e5ed" stroke="#9a7c9a" stroke-width="2"/>
-<!-- sleepy cat -->
-<g transform="translate(70 220)">
- <ellipse cx="78" cy="86" rx="73" ry="12" fill="#6d586b" opacity=".18"/>
- <path d="M28 50L19 8Q18 0 27 7L53 28Q78 18 103 28L129 7Q138 1 136 10L128 52Q143 85 117 103Q78 124 40 103Q15 85 28 50Z" fill="#fff5ee" stroke="#d5b6c7" stroke-width="4"/>
- <path d="M35 51L29 17L57 38M122 51L128 17L101 38" fill="#f4c1d2" stroke="#d5b6c7" stroke-width="3"/>
- <path d="M47 67Q57 75 67 67M91 67Q101 75 111 67" fill="none" stroke="#5b5068" stroke-width="4" stroke-linecap="round"/>
- <path d="M74 82Q79 88 84 82" fill="none" stroke="#bd829c" stroke-width="3" stroke-linecap="round"/>
- <ellipse cx="43" cy="83" rx="10" ry="5" fill="#f3b2c8"/><ellipse cx="114" cy="83" rx="10" ry="5" fill="#f3b2c8"/>
- <path d="M43 105Q79 120 114 105" fill="none" stroke="#e3bacb" stroke-width="4"/>
- <path d="M121 102Q155 98 146 75" fill="none" stroke="#fff5ee" stroke-width="12" stroke-linecap="round"/>
+<rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+<circle cx="1020" cy="60" r="150" fill="#fff" opacity=".22"/>
+<circle cx="180" cy="325" r="180" fill="#fff" opacity=".18"/>
+<!-- soft sakura branches -->
+<g fill="none" stroke="#b58da9" stroke-width="5" stroke-linecap="round" opacity=".55"><path d="M25 30Q110 80 180 150T300 190"/><path d="M1080 0Q1035 60 1080 120T1170 190"/></g>
+<g fill="#fff7fc" stroke="#e6a9cb" stroke-width="1.5">
+ <g transform="translate(75 70)"><ellipse cy="-12" rx="9" ry="15"/><ellipse cx="12" cy="-3" rx="9" ry="15" transform="rotate(72 12 -3)"/><ellipse cx="7" cy="11" rx="9" ry="15" transform="rotate(144 7 11)"/><ellipse cx="-7" cy="11" rx="9" ry="15" transform="rotate(216 -7 11)"/><ellipse cx="-12" cy="-3" rx="9" ry="15" transform="rotate(288 -12 -3)"/><circle r="5" fill="#f4c36f"/></g>
+ <g transform="translate(1110 235) scale(.8)"><ellipse cy="-12" rx="9" ry="15"/><ellipse cx="12" cy="-3" rx="9" ry="15" transform="rotate(72 12 -3)"/><ellipse cx="7" cy="11" rx="9" ry="15" transform="rotate(144 7 11)"/><ellipse cx="-7" cy="11" rx="9" ry="15" transform="rotate(216 -7 11)"/><ellipse cx="-12" cy="-3" rx="9" ry="15" transform="rotate(288 -12 -3)"/><circle r="5" fill="#f4c36f"/></g>
 </g>
-<!-- petals drifting slowly -->
-<g fill="#fff0f5" opacity=".95">
- <path d="M705 78q-14-14-22 0q-4 13 22 24q26-11 22-24q-8-14-22 0z"><animateTransform attributeName="transform" type="translate" values="0 0;20 38;0 0" dur="12s" repeatCount="indefinite"/></path>
- <path d="M720 176q-11-12-18 0q-3 11 18 20q21-9 18-20q-7-12-18 0z"><animateTransform attributeName="transform" type="translate" values="0 0;-14 30;0 0" dur="10s" repeatCount="indefinite"/></path>
- <path d="M112 145q-9-10-15 0q-3 9 15 17q18-8 15-17q-6-10-15 0z"><animateTransform attributeName="transform" type="translate" values="0 0;16 25;0 0" dur="11s" repeatCount="indefinite"/></path>
+<!-- girl shadow -->
+<ellipse cx="345" cy="345" rx="180" ry="20" fill="#8e78ad" opacity=".18" filter="url(#shadow)"/>
+<!-- flowing hair behind -->
+<path d="M195 320Q125 225 159 118Q178 24 296 25Q435 7 493 120Q538 220 465 360H220Z" fill="url(#hair)"/>
+<path d="M195 135Q126 214 179 333Q225 292 225 226M450 111Q515 219 458 338Q420 290 425 222" fill="none" stroke="#d7c3ff" stroke-width="12" opacity=".55"/>
+<!-- neck and shoulders -->
+<path d="M291 228H378V280Q335 311 291 280Z" fill="#f4c6c5"/>
+<path d="M220 360Q225 276 292 263Q337 291 380 263Q455 284 470 360Z" fill="url(#dress)" stroke="#e8a9ca" stroke-width="3"/>
+<path d="M293 275L336 322L378 275" fill="#fff" stroke="#d8b6e4" stroke-width="4"/>
+<path d="M320 307L336 326L352 307L344 360H328Z" fill="#d8a7df"/>
+<!-- face -->
+<ellipse cx="336" cy="169" rx="105" ry="118" fill="#ffdfd5" stroke="#e9b5c1" stroke-width="3"/>
+<!-- ears -->
+<ellipse cx="232" cy="178" rx="17" ry="28" fill="#f7d0cb"/><ellipse cx="440" cy="178" rx="17" ry="28" fill="#f7d0cb"/>
+<!-- fringe -->
+<path d="M230 145Q205 50 295 43Q381 8 432 83Q449 108 435 157Q408 125 389 93Q365 135 330 137Q285 144 258 119Q250 141 230 145Z" fill="#443b70"/>
+<path d="M239 117Q263 54 311 57Q290 91 292 131Q265 125 249 151Z" fill="#62558f"/>
+<path d="M314 60Q365 42 398 89Q375 111 369 140Q340 120 314 60Z" fill="#7767ad"/>
+<!-- side locks -->
+<path d="M234 135Q206 215 239 290Q259 263 259 210L259 140Z" fill="#55497f"/>
+<path d="M427 132Q462 223 423 300Q405 270 409 213L402 139Z" fill="#514675"/>
+<!-- eyes -->
+<ellipse cx="294" cy="177" rx="23" ry="31" fill="#fff"/><ellipse cx="378" cy="177" rx="23" ry="31" fill="#fff"/>
+<ellipse cx="296" cy="181" rx="15" ry="24" fill="url(#eye)"/><ellipse cx="380" cy="181" rx="15" ry="24" fill="url(#eye)"/>
+<ellipse cx="300" cy="169" rx="6" ry="8" fill="#fff"/><ellipse cx="384" cy="169" rx="6" ry="8" fill="#fff"/>
+<circle cx="289" cy="191" r="3" fill="#fff"/><circle cx="373" cy="191" r="3" fill="#fff"/>
+<path d="M269 143Q293 129 315 145M355 145Q378 129 401 144" fill="none" stroke="#4d416d" stroke-width="6" stroke-linecap="round"/>
+<!-- blush and smile -->
+<ellipse cx="266" cy="216" rx="19" ry="9" fill="#f5a6b9" opacity=".55"/><ellipse cx="406" cy="216" rx="19" ry="9" fill="#f5a6b9" opacity=".55"/>
+<path d="M326 224Q337 235 348 224" fill="none" stroke="#bd718d" stroke-width="3" stroke-linecap="round"/>
+<!-- pink bow -->
+<path d="M398 68Q438 28 447 71Q449 93 408 91Q451 115 419 133Q393 130 393 91Q369 119 348 96Q337 70 389 73Z" fill="#f6a9cf" stroke="#fff0f7" stroke-width="3"/>
+<circle cx="397" cy="88" r="10" fill="#ffe3f0" stroke="#dc8db8" stroke-width="2"/>
+<!-- floating stars -->
+<g fill="#fff" opacity=".9">
+ <path d="M130 210l6 15 15 6-15 6-6 15-6-15-15-6 15-6z"><animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/></path>
+ <path d="M520 70l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"><animate attributeName="opacity" values="1;.3;1" dur="2.6s" repeatCount="indefinite"/></path>
+ <path d="M555 255l4 9 9 4-9 4-4 9-4-9-9-4 9-4z"><animate attributeName="opacity" values=".3;1;.3" dur="3.4s" repeatCount="indefinite"/></path>
 </g>
-<!-- centered identity card -->
-<rect x="365" y="42" width="350" height="112" rx="20" fill="#302c49" opacity=".88"/>
-<text x="540" y="83" text-anchor="middle" fill="#fff8fb" font-family="Nunito,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800">Anjali S. Kshirsagar</text>
-<text x="540" y="116" text-anchor="middle" fill="#f7cadd" font-family="Nunito,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700">Aspiring Data Analyst</text>
-<text x="540" y="140" text-anchor="middle" fill="#e6dcf5" font-family="Nunito,Segoe UI,Arial,sans-serif" font-size="13">Python  ·  SQL  ·  Power BI  ·  Excel</text>
-<g fill="#fff7e8"><path d="M342 178l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"><animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/></path><path d="M725 42l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></path></g>
+<!-- drifting petals -->
+<g fill="#fff4fb">
+ <path d="M520 150q-12-13-20 0q-4 12 20 22q24-10 20-22q-8-13-20 0z"><animateTransform attributeName="transform" type="translate" values="0 0;18 28;0 0" dur="10s" repeatCount="indefinite"/></path>
+ <path d="M170 275q-10-11-17 0q-3 10 17 18q20-8 17-18q-7-11-17 0z"><animateTransform attributeName="transform" type="translate" values="0 0;-12 24;0 0" dur="12s" repeatCount="indefinite"/></path>
+</g>
+<!-- right-hand text panel -->
+<rect x="610" y="48" width="530" height="260" rx="28" fill="#fffaff" opacity=".72" stroke="#fff" stroke-width="3"/>
+<text x="875" y="117" text-anchor="middle" fill="#51436f" font-family="Nunito,Segoe UI,Arial,sans-serif" font-size="38" font-weight="800">Anjali S. Kshirsagar</text>
+<text x="875" y="164" text-anchor="middle" fill="#9b70b8" font-family="Nunito,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">Aspiring Data Analyst ✿</text>
+<text x="875" y="211" text-anchor="middle" fill="#66577d" font-family="Nunito,Segoe UI,Arial,sans-serif" font-size="20">Python  ♡  SQL  ♡  Power BI  ♡  Excel</text>
+<text x="875" y="251" text-anchor="middle" fill="#806b98" font-family="Nunito,Segoe UI,Arial,sans-serif" font-size="17">Finding little stories hidden in data ✨</text>
+<g transform="translate(875 278)" fill="#efa8cb"><path d="M0 0C-13 -15 -34 4 0 23C34 4 13 -15 0 0Z"><animateTransform attributeName="transform" type="scale" values="1;1.08;1" dur="3s" repeatCount="indefinite"/></path></g>
 </svg>
