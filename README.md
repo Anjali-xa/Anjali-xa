@@ -238,7 +238,15 @@ I enjoy exploring different kinds of datasets and learning how to turn them into
 </div>
 
 <div align="center">
-  <sub>✨ These cards are generated from my public GitHub activity. If they take a little while to appear, GitHub's image cache may need time to refresh.</sub>
+  <sub>✨ Live cards based on public GitHub repositories. Language percentages reflect code in my own public repositories.</sub>
+</div>
+
+## 🌷 Contribution garden
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/cba6f7/Anjali-xa" alt="Anjali's GitHub contribution calendar" width="100%" />
+  <br/>
+  <sub>Every little contribution is a step forward. Keep growing! 🌱</sub>
 </div>
 
 ## 🐾 Contribution kitty
