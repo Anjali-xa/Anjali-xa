@@ -1,0 +1,7 @@
+sku,category,stock_on_hand,reorder_level,supplier_lead_days,units_sold
+SKU01,Electronics,24,30,8,16
+SKU02,Home,80,25,5,21
+SKU03,Grocery,12,20,3,44
+SKU04,Fashion,9,15,12,18
+SKU05,Electronics,45,20,7,13
+SKU06,Home,18,22,6,19
