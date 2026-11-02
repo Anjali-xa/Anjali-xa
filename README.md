@@ -130,6 +130,24 @@ Explore retail sales and profitability across products, categories and regions.
 
 ---
 
+
+### 🌼 10–19 · NEW ANALYTICS PROJECT WORKSPACES
+
+These ten new project workspaces are being developed inside this portfolio repository. Each contains a starter README, a small synthetic CSV, a Python exploration script and SQL starter queries. They are **not separate repositories yet**.
+
+- [10 · Airline Flight Delay Analysis](projects/airline-flight-delay-analysis/) — flight punctuality, delay causes and cancellations · Python, SQL, Power BI
+- [11 · Banking Transaction Analysis](projects/banking-transaction-analysis/) — transaction channels, spending and flagged activity · Python, SQL, Excel, Power BI
+- [12 · Hospital Operations Analysis](projects/hospital-operations-analysis/) — admissions, length of stay and bed occupancy · Excel, SQL, Power BI
+- [13 · Supply Chain & Inventory Analysis](projects/supply-chain-inventory-analysis/) — stock levels, reorder points and supplier lead times · Python, SQL, Excel, Power BI
+- [14 · Electric Vehicle Market Analysis](projects/electric-vehicle-market-analysis/) — EV registrations by region and vehicle type · Python, SQL, Power BI
+- [15 · Real Estate Market Analysis](projects/real-estate-market-analysis/) — property prices, locations and floor area · Python, Excel, SQL, Power BI
+- [16 · Student Performance Analysis](projects/student-performance-analysis/) — attendance, study hours and exam scores · Python, Excel, Power BI
+- [17 · Telecom Customer Usage Analysis](projects/telecom-customer-usage-analysis/) — data usage, call patterns and plans · SQL, Python, Power BI
+- [18 · Renewable Energy Analysis](projects/renewable-energy-analysis/) — solar and wind generation by region · Python, SQL, Excel, Power BI
+- [19 · Hotel Booking & Revenue Analysis](projects/hotel-booking-revenue-analysis/) — bookings, cancellations and room revenue · Excel, SQL, Python, Power BI
+
+<sub>All included sample rows are synthetic scaffolding only. Replace them with documented public datasets before publishing real-world findings.</sub>
+
 ## 🌷 ✧ MY GITHUB CORNER
 
 <div align="center">
