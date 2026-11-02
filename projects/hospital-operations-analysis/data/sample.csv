@@ -1,0 +1,7 @@
+visit_id,department,admission_type,length_of_stay_days,bed_occupied,outcome
+V001,Cardiology,Emergency,4,1,Discharged
+V002,Orthopedics,Planned,3,1,Discharged
+V003,Pediatrics,Emergency,2,1,Discharged
+V004,Neurology,Planned,7,1,Transferred
+V005,Cardiology,Emergency,5,1,Discharged
+V006,General,Planned,1,0,Discharged
