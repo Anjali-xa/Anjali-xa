@@ -134,12 +134,12 @@ Explore retail sales and profitability across products, categories and regions.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/profile-summary-card-output/default/3-stats.svg" height="165" alt="GitHub statistics" />
-<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/profile-summary-card-output/default/1-repos-per-language.svg" height="165" alt="Most used languages" />
+<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/profile-summary-card-output/default/3-stats.svg?v=cards-20261102-run2" height="165" alt="GitHub statistics" />
+<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/profile-summary-card-output/default/1-repos-per-language.svg?v=cards-20261102-run2" height="165" alt="Most used languages" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" alt="GitHub contribution activity and profile details" />
+<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/profile-summary-card-output/default/0-profile-details.svg?v=cards-20261102-run2" width="100%" alt="GitHub contribution activity and profile details" />
 
 </div>
 
