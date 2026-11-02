@@ -11,6 +11,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out profile repository
         uses: actions/checkout@v4
@@ -20,7 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Anjali-xa
-          BRANCH_NAME: profile-summary-card-output
+          BRANCH_NAME: main
           UTC_OFFSET: 5.5
           AUTO_PUSH: true
           THEME: default
