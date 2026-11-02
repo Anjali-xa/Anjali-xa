@@ -134,12 +134,15 @@ Explore retail sales and profitability across products, categories and regions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anjali-xa&show_icons=true&hide_border=true&bg_color=fff4e8&title_color=A66F59&icon_color=D98F83&text_color=765B50&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-xa&layout=compact&hide_border=true&bg_color=fff4e8&title_color=A66F59&text_color=765B50" height="165" alt="Most used languages" />
+<img src="https://img.shields.io/badge/GitHub-Anjali--xa-A66F59?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile: Anjali-xa" />
+<img src="https://img.shields.io/badge/Projects-9-D98F83?style=for-the-badge&logo=github&logoColor=white" alt="Nine data analysis projects" />
+<img src="https://img.shields.io/badge/Toolkit-Python%20%7C%20SQL%20%7C%20Excel%20%7C%20Power%20BI-8D9B79?style=for-the-badge" alt="Python, SQL, Excel and Power BI" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali-xa&bg_color=fff4e8&color=765B50&line=C98F78&point=D98F83&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+*✨ Follow my GitHub journey and explore the projects above.*
+
+*My live contribution activity is available in GitHub's built-in contribution graph on this profile.*
 
 </div>
 
