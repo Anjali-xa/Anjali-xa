@@ -12,6 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -20,3 +22,6 @@ jobs:
           USERNAME: Anjali-xa
           BRANCH_NAME: profile-summary-card-output
           UTC_OFFSET: 5.5
+          AUTO_PUSH: true
+          THEME: default
+          ANIMATION: fade
