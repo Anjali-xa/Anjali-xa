@@ -1,0 +1,4 @@
+property_id,city,property_type,area_sqft,bedrooms,price_inr
+P001,Pune,Apartment,950,2,7800000
+P002,Mumbai,Apartment,720,2,14500000
+P003,Nashik,House,1400,3,9200000
