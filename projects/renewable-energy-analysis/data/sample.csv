@@ -1,0 +1,4 @@
+month,region,energy_source,generation_mwh,capacity_mw
+2025-01,West,Solar,12500,820
+2025-01,South,Wind,18200,1100
+2025-02,West,Solar,13900,820
