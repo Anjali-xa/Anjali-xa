@@ -1,0 +1,4 @@
+booking_id,hotel_type,lead_time_days,nights,adr_inr,is_cancelled
+B001,City,12,2,4200,0
+B002,Resort,45,5,6800,0
+B003,City,90,3,3900,1
