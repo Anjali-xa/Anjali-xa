@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/assets/daily-banner.svg?v=peach-chibi-04" width="100%" alt="Anjali S. Kshirsagar — Data Analyst Portfolio" />
+<img src="https://raw.githubusercontent.com/Anjali-xa/Anjali-xa/main/assets/daily-banner.svg?v=peach-anime-final-02" width="100%" alt="Anjali S. Kshirsagar — Data Analyst Portfolio" />
 
 <br/>
 
