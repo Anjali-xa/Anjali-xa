@@ -1,0 +1,7 @@
+transaction_id,customer_id,channel,category,amount,flagged
+T001,C101,UPI,Groceries,1250,0
+T002,C102,Card,Travel,8400,0
+T003,C101,UPI,Utilities,2100,0
+T004,C103,NetBanking,Electronics,52000,1
+T005,C104,Card,Dining,950,0
+T006,C102,UPI,Groceries,1780,0
