@@ -1,0 +1,4 @@
+customer_id,plan,data_gb,call_minutes,monthly_charge_inr,recharges
+C001,Basic,4.2,320,299,1
+C002,Plus,18.5,610,599,1
+C003,Premium,42,920,999,1
