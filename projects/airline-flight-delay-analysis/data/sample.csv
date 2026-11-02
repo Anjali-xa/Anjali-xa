@@ -1,0 +1,7 @@
+flight_id,airline,origin,destination,delay_minutes,cancelled
+F001,Air India,DEL,BOM,18,0
+F002,IndiGo,BLR,DEL,42,0
+F003,Vistara,BOM,HYD,0,0
+F004,SpiceJet,DEL,CCU,95,0
+F005,IndiGo,HYD,BLR,0,1
+F006,Air India,CCU,DEL,27,0
